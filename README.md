@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/taiwoAkindele/sunnyside-landing-page)
+- Live Site URL: [Add live site URL here](https://app.netlify.com/sites/jade-rugelach-58013c)
 
 ### Built with
 
@@ -25,7 +25,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
